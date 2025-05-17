@@ -49,7 +49,8 @@ download_file(host, port, 'example.txt')
  print("File downloaded successfully.")
 ```
 ## OUTPUT
-![Screenshot 2025-05-10 132024](https://github.com/user-attachments/assets/d12d5f8b-6438-411f-95dc-c791809f82b1)
+![Screenshot 2025-05-17 103449](https://github.com/user-attachments/assets/43e5a539-bcf1-4a80-904a-c04e1dcd4086)
+
 
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
